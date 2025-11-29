@@ -2,14 +2,9 @@
 
 This repository collects my individual research and coding projects in macroeconomics, monetary policy, and international trade.
 
-Typical projects include:
-- Estimation and simulation of New Keynesian models (e.g. NKOE with Rotemberg price adjustment costs) in Dynare/MATLAB.
-- Small structural or semi-structural models for monetary policy analysis.
-- Trade and open-economy applications, occasionally linked to coursework or thesis work.
-- Econometric and macroeconometric exercises that go beyond standard coursework.
-
-Each project is self-contained, with code, a short description, and (where possible) replication instructions.
-
+Up to now:
+- Simulation of the New Keynesian Open Economy model I covered in my International Macroeconomics class with Rotemberg price adjustment costs in Dynare/MATLAB.
+- IRFs over stochastic shocks in productivity and foreign demand.
 ---
 
 ## Structure (planned)
